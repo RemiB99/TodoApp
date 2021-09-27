@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="add_button">AddButton</string>
+    <string name="create_todo">Créer un Todo</string>
+    <string name="create_todo_hint">Titre</string>
+    <string name="cancel_button">ANNULER</string>
+    <string name="create_button">CRÉER</string>
+</resources>
